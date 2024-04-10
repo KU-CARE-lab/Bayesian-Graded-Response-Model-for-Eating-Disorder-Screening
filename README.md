@@ -1,4 +1,4 @@
-##################### Data
+##################### data
 
 Our current study protocol requires a signed data use agreement prior to release. Please email the corresonding author at kforbush@ku.edu.
 
@@ -26,6 +26,10 @@ The folder "bootstrap" contains R code used in the bootstrap study (Section 4.4)
 1. Performing the bootstrap: "Bayesian_GRM_scoff_boot.R" and "Bayesian_GRM_base_boot.R".
 2. Predicting individual ED risk: "ED_risk_estimate_scoff_boot.R" and "ED_risk_estimate_base_boot.R".
 3. Table 5 (MSE): "MSE.R".
-4. Figure 8, and figures in Supplement 4: ""
+4. Figure 8, and figures in Supplement 4: "Investigation2 - only_fm.R".
+
+#####################  supplemental materials
+
+
 
 
