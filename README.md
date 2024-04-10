@@ -22,4 +22,10 @@ The folder "hypothesis_1_and_2" contains R files used in Hypotheses 1 (Accuracy 
 
 #####################  bootstrap study
 
+The folder "bootstrap" contains R code used in the bootstrap study (Section 4.4).
+1. Performing the bootstrap: "Bayesian_GRM_scoff_boot.R" and "Bayesian_GRM_base_boot.R".
+2. Predicting individual ED risk: "ED_risk_estimate_scoff_boot.R" and "ED_risk_estimate_base_boot.R".
+3. Table 5 (MSE): "MSE.R".
+4. Figure 8, and figures in Supplement 4: ""
+
 
