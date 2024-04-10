@@ -30,6 +30,7 @@ The folder "bootstrap" contains R code used in the bootstrap study (Section 4.4)
 
 #####################  supplemental materials
 
+The folder "supplement" contain R code used in the Supplemental studies.
 
 
 
